@@ -6,6 +6,7 @@
 
 ## iOS
 
+
 <table>
 
 <tr>
@@ -31,7 +32,7 @@
 <td id='戴铭' style='width:150px'>
 <center><a href='http://t.cn/RSjPCJ6'><img src='http://t.cn/RuP8lEI' height='100' width='100'/></a></center>
 <h4 align='center'><a href='http://t.cn/RSjPCJ6'>戴铭</a></h4>
-<h6 align='center'>Swift，OC，编译，图图</h6>
+<h6 align='center'>Swift、OC、编译</h6>
 <p><center>
 <a href='http://weibo.com/allstarming'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='http://t.cn/RuP8lEx'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -98,7 +99,7 @@
 <td id='halfrost' style='width:150px'>
 <center><a href='https://github.com/halfrost/Halfrost-Field'><img src='https://ob6mci30g.qnssl.com/me.jpg' height='100' width='100'/></a></center>
 <h4 align='center'><a href='https://github.com/halfrost/Halfrost-Field'>halfrost</a></h4>
-<h6 align='center'>iOS，前端，后端，golang，Machine Learning</h6>
+<h6 align='center'>iOS、前端、后端</h6>
 <p><center>
 <a href='https://weibo.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -129,7 +130,7 @@
 <td id='Joy_xx' style='width:150px'>
 <center><a href='https://juejin.im/user/5656f11760b28da566412f03'><img src='https://upload-images.jianshu.io/upload_images/852671-ea9d77e88a4e7fbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' height='100' width='100'/></a></center>
 <h4 align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'>Joy_xx</a></h4>
-<h6 align='center'>工程效率、移动端性能、稳定性等</h6>
+<h6 align='center'>工程效率、移动端性能</h6>
 <p><center>
 <a href='https://weibo.com/5419850564'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/joy0304'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
