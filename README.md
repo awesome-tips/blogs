@@ -203,7 +203,7 @@
 <td id='J_Knight_' style='width:180px'>
 <p align='center'><a href='http://t.cn/RuqLczv'><img src='http://t.cn/RuqLc7F' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://t.cn/RuqLczv'>J_Knight_</a></h4>
-<h6 align='center'>数据结构、算法</h6>
+<h6 align='center'>iOS</h6>
 <p align='center'>
 <a href='http://t.cn/RuqLc7D'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='http://t.cn/RuqLc7e'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
