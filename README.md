@@ -81,7 +81,7 @@
 <h6 align='center'>iOS</h6>
 <p align='center'>
 <a href='https://weibo.com/u/1438670852'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
-<a href=''><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+<a href='https://github.com/Zangqilong'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
 <td id='everettjf' style='width:180px'>
