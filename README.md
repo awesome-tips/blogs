@@ -10,11 +10,10 @@
 
 ## iOS
 
-<table style="table-layout:fixed;word-break:break-all;background:#f2f2f2">
+<table style="table-layout:fixed">
 
 <tr>
-
-<td id='唐巧' style='width:180px'>
+<td id='唐巧' style='width:180px;table-layout:fixed'>
 <p align='center'><a href='http://blog.devtang.com/'><img src='https://tva4.sinaimg.cn/crop.0.2.1242.1242.180/65dc76a3jw8exkme9y57dj20yi0ymabn.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://blog.devtang.com/'>唐巧</a></h4>
 <h6 align='center'>iOS Swift 读书笔记</h6>
@@ -23,7 +22,7 @@
 <a href='https://github.com/tangqiaoboy'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='王巍(喵神)' style='width:180px'>
+<td id='王巍(喵神)' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='https://onevcat.com/'><img src='https://tva3.sinaimg.cn/crop.0.0.180.180.180/83bbf18djw1e8qgp5bmzyj2050050aa8.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://onevcat.com/'>王巍(喵神)</a></h4>
 <h6 align='center'>Swift</h6>
@@ -32,7 +31,7 @@
 <a href='https://github.com/onevcat'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='戴铭' style='width:180px'>
+<td id='戴铭' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='http://t.cn/RSjPCJ6'><img src='http://t.cn/RuP8lEI' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://t.cn/RSjPCJ6'>戴铭</a></h4>
 <h6 align='center'>Swift，OC，编译，图图</h6>
@@ -41,7 +40,7 @@
 <a href='http://t.cn/RuP8lEx'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='iOS程序犭袁' style='width:180px'>
+<td id='iOS程序犭袁' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='https://www.jianshu.com/u/96a14318a4de'><img src='https://tva1.sinaimg.cn/crop.0.0.511.511.180/64dfd849gw1ep43ip52qlj20e80e840a.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://www.jianshu.com/u/96a14318a4de'>iOS程序犭袁</a></h4>
 <h6 align='center'>iOS</h6>
@@ -50,7 +49,7 @@
 <a href='https://github.com/ChenYilong'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='折腾范儿_味精' style='width:180px'>
+<td id='折腾范儿_味精' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'><img src='https://tvax3.sinaimg.cn/crop.0.0.512.512.180/678c3e91ly8fpc40w5yfjj20e80e8dg5.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'>折腾范儿_味精</a></h4>
 <h6 align='center'>iOS，大前端</h6>
