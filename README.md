@@ -10,11 +10,7 @@
 
 ## iOS
 
-
-
-
-
-<table>
+<table style="table-layout:fixed;word-break:break-all;background:#f2f2f2">
 
 <tr>
 
