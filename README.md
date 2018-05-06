@@ -10,14 +10,10 @@
 
 ## iOS
 
-
-
-
-<table>
+<table style="table-layout:fixed">
 
 <tr>
-
-<td id='唐巧' style='width:180px'>
+<td id='唐巧' style='width:180px;table-layout:fixed'>
 <p align='center'><a href='http://blog.devtang.com/'><img src='https://tva4.sinaimg.cn/crop.0.2.1242.1242.180/65dc76a3jw8exkme9y57dj20yi0ymabn.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://blog.devtang.com/'>唐巧</a></h4>
 <h6 align='center'>iOS Swift 读书笔记</h6>
@@ -26,7 +22,7 @@
 <a href='https://github.com/tangqiaoboy'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='王巍(喵神)' style='width:180px'>
+<td id='王巍(喵神)' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='https://onevcat.com/'><img src='https://tva3.sinaimg.cn/crop.0.0.180.180.180/83bbf18djw1e8qgp5bmzyj2050050aa8.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://onevcat.com/'>王巍(喵神)</a></h4>
 <h6 align='center'>Swift</h6>
@@ -35,16 +31,16 @@
 <a href='https://github.com/onevcat'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='戴铭' style='width:180px'>
+<td id='戴铭' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='http://t.cn/RSjPCJ6'><img src='http://t.cn/RuP8lEI' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://t.cn/RSjPCJ6'>戴铭</a></h4>
-<h6 align='center'>Swift、OC、编译</h6>
+<h6 align='center'>Swift，OC，编译，图图</h6>
 <p align='center'>
 <a href='http://weibo.com/allstarming'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='http://t.cn/RuP8lEx'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='iOS程序犭袁' style='width:180px'>
+<td id='iOS程序犭袁' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='https://www.jianshu.com/u/96a14318a4de'><img src='https://tva1.sinaimg.cn/crop.0.0.511.511.180/64dfd849gw1ep43ip52qlj20e80e840a.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://www.jianshu.com/u/96a14318a4de'>iOS程序犭袁</a></h4>
 <h6 align='center'>iOS</h6>
@@ -53,10 +49,10 @@
 <a href='https://github.com/ChenYilong'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='折腾范儿_味精' style='width:180px'>
+<td id='折腾范儿_味精' style='width:20%;table-layout:fixed'>
 <p align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'><img src='https://tvax3.sinaimg.cn/crop.0.0.512.512.180/678c3e91ly8fpc40w5yfjj20e80e8dg5.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'>折腾范儿_味精</a></h4>
-<h6 align='center'>大前端</h6>
+<h6 align='center'>iOS，大前端</h6>
 <p align='center'>
 <a href='https://weibo.com/agvicking'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/Awhisper'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -105,7 +101,7 @@
 <td id='halfrost' style='width:180px'>
 <p align='center'><a href='https://github.com/halfrost/Halfrost-Field'><img src='https://ob6mci30g.qnssl.com/me.jpg' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://github.com/halfrost/Halfrost-Field'>halfrost</a></h4>
-<h6 align='center'>iOS、前端、后端</h6>
+<h6 align='center'>iOS，前端，后端，golang，Machine Learning</h6>
 <p align='center'>
 <a href='https://weibo.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -136,7 +132,7 @@
 <td id='Joy_xx' style='width:180px'>
 <p align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'><img src='https://upload-images.jianshu.io/upload_images/852671-ea9d77e88a4e7fbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' height='150' width='150'/></a></p>
 <h4 align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'>Joy_xx</a></h4>
-<h6 align='center'>工程效率、移动端性能</h6>
+<h6 align='center'>工程效率、移动端性能、稳定性等</h6>
 <p align='center'>
 <a href='https://weibo.com/5419850564'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/joy0304'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -240,8 +236,113 @@
 <a href='https://github.com/casatwy'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
+<td id='杨萧玉' style='width:180px'>
+<p align='center'><a href='http://yulingtianxia.com/'><img src='https://tva1.sinaimg.cn/crop.0.0.640.640.180/642c5793jw8es1tzsl205j20hs0hst9g.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='http://yulingtianxia.com/'>杨萧玉</a></h4>
+<h6 align='center'>iOS，逆向</h6>
+<p align='center'>
+<a href='https://weibo.com/yulingtianxia'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/yulingtianxia'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='Draveness' style='width:180px'>
+<p align='center'><a href='https://draveness.me/index'><img src='https://tva3.sinaimg.cn/crop.0.0.750.750.180/005AJZTOjw8f37od44xcgj30ku0kujtf.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://draveness.me/index'>Draveness</a></h4>
+<h6 align='center'>RAC, iOS</h6>
+<p align='center'>
+<a href='https://weibo.com/u/5123574960'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href=''><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+</tr>
+
+<tr>
+
+<td id='StackOverflowError' style='width:180px'>
+<p align='center'><a href='https://zhuanlan.zhihu.com/cocoanotes'><img src='https://tva2.sinaimg.cn/crop.0.0.180.180.180/693eeff4jw1e8qgp5bmzyj2050050aa8.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://zhuanlan.zhihu.com/cocoanotes'>StackOverflowError</a></h4>
+<h6 align='center'>JSBox 作者</h6>
+<p align='center'>
+<a href='https://weibo.com/0x00eeee'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/cyanzhong'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='Swift Talk' style='width:180px'>
+<p align='center'><a href='https://talk.objc.io/'><img src='https://github.com/awesome-tips/blogs/blob/master/avatar/swift_talk.png?raw=true' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://talk.objc.io/'>Swift Talk</a></h4>
+<h6 align='center'>Swift</h6>
+<p align='center'>
+<a href=''><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href=''><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='南峰子_老驴' style='width:180px'>
+<p align='center'><a href='https://weibo.com/touristdiary'><img src='https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://weibo.com/touristdiary'>南峰子_老驴</a></h4>
+<h6 align='center'>iOS，前端</h6>
+<p align='center'>
+<a href='https://weibo.com/touristdiary'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='http://southpeak.github.io/'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='Lefe_x' style='width:180px'>
+<p align='center'><a href='https://github.com/lefex/LefexWork'><img src='https://tva4.sinaimg.cn/crop.8.0.1226.1226.180/006uSOiEjw8f9h4ihstq4j30yi0y2gnq.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://github.com/lefex/LefexWork'>Lefe_x</a></h4>
+<h6 align='center'>iOS，大前端</h6>
+<p align='center'>
+<a href='https://weibo.com/u/5953150140'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/lefex'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='Vong_HUST' style='width:180px'>
+<p align='center'><a href='http://vongloo.me/'><img src='https://tvax3.sinaimg.cn/crop.0.0.667.667.180/ba81ca29ly8fhu4meonedj20ij0ijgmh.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='http://vongloo.me/'>Vong_HUST</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'>
+<a href='https://weibo.com/VongLo'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/wang9262'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+</tr>
+
+<tr>
+
+<td id='故胤道长' style='width:180px'>
+<p align='center'><a href='https://www.jianshu.com/u/8d5b91490ca5'><img src='https://tva4.sinaimg.cn/crop.14.0.721.721.180/6cf34ee4jw8f8rdmtzzgmj20ku0k10t5.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://www.jianshu.com/u/8d5b91490ca5'>故胤道长</a></h4>
+<h6 align='center'>iOS，算法</h6>
+<p align='center'>
+<a href='https://weibo.com/soapyigu'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/soapyigu'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='高老师很忙' style='width:180px'>
+<p align='center'><a href=''><img src='https://tva4.sinaimg.cn/crop.0.0.1242.1242.180/5fe18d75jw8evft9qcjh5j20yi0yigo5.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href=''>高老师很忙</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'>
+<a href='https://weibo.com/517082456'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/yongyuegao'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='halohily' style='width:180px'>
+<p align='center'><a href='https://halohily.com/'><img src='https://tva4.sinaimg.cn/crop.9.0.493.493.180/d9ec7ffcjw8f8a753z961j20e80dp0t3.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://halohily.com/'>halohily</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'>
+<a href='http://weibo.com/halohily'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/halohily'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='KANGZUBIN' style='width:180px'>
+<p align='center'><a href='https://kangzubin.com'><img src='https://tva3.sinaimg.cn/crop.0.0.440.440.180/621b53aejw8ekybg28hxzj20c80c83z0.jpg' height='150' width='150'/></a></p>
+<h4 align='center'><a href='https://kangzubin.com'>KANGZUBIN</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'>
+<a href='https://weibo.com/kangzubin'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/kangzubin'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
 </tr>
 
 </table>
-
-
