@@ -280,12 +280,12 @@
 </p>
 
 <td id='南峰子_老驴' style='width:180px'>
-<p align='center'><a href='https://weibo.com/touristdiary'><img src='https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg' height='140' width='140'/></a></p>
-<h4 align='center'><a href='https://weibo.com/touristdiary'>南峰子_老驴</a></h4>
+<p align='center'><a href='http://southpeak.github.io/'><img src='https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://southpeak.github.io/'>南峰子_老驴</a></h4>
 <h6 align='center'>iOS 大前端</h6>
 <p align='center'>
 <a href='https://weibo.com/touristdiary'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
-<a href='http://southpeak.github.io/'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+<a href='https://github.com/southpeak'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
 <td id='Lefe_x' style='width:180px'>
