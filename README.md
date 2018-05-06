@@ -37,7 +37,7 @@
 <td id='戴铭' style='width:180px'>
 <p align='center'><a href='http://t.cn/RSjPCJ6'><img src='http://t.cn/RuP8lEI' height='140' width='140'/></a></p>
 <h4 align='center'><a href='http://t.cn/RSjPCJ6'>戴铭</a></h4>
-<h6 align='center'>Swift，OC，编译，图图</h6>
+<h6 align='center'>Swift 编译 图图</h6>
 <p align='center'>
 <a href='http://weibo.com/allstarming'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='http://t.cn/RuP8lEx'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -55,7 +55,7 @@
 <td id='折腾范儿_味精' style='width:180px'>
 <p align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'><img src='https://tvax3.sinaimg.cn/crop.0.0.512.512.180/678c3e91ly8fpc40w5yfjj20e80e8dg5.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='http://awhisper.github.io/?from=inf&wvr=5&loc=infblog'>折腾范儿_味精</a></h4>
-<h6 align='center'>iOS，大前端</h6>
+<h6 align='center'>iOS 大前端</h6>
 <p align='center'>
 <a href='https://weibo.com/agvicking'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/Awhisper'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -95,7 +95,7 @@
 <td id='bestswifter' style='width:180px'>
 <p align='center'><a href='https://github.com/bestswifter/blog'><img src='https://avatars3.githubusercontent.com/u/8394612' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://github.com/bestswifter/blog'>bestswifter</a></h4>
-<h6 align='center'>工程化、全栈、效率</h6>
+<h6 align='center'>工程化 全栈 效率</h6>
 <p align='center'>
 <a href='https://weibo.com/bestswifter'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/bestswifter'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -104,7 +104,7 @@
 <td id='halfrost' style='width:180px'>
 <p align='center'><a href='https://github.com/halfrost/Halfrost-Field'><img src='https://ob6mci30g.qnssl.com/me.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://github.com/halfrost/Halfrost-Field'>halfrost</a></h4>
-<h6 align='center'>iOS，前端，后端，golang，Machine Learning</h6>
+<h6 align='center'>iOS 前后端 golang ML</h6>
 <p align='center'>
 <a href='https://weibo.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/halfrost'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -126,7 +126,7 @@
 <td id='AloneMonkey' style='width:180px'>
 <p align='center'><a href='http://www.alonemonkey.com'><img src='https://tva4.sinaimg.cn/crop.0.6.315.315.180/6227738egw1ecj9s3fekaj208t0913yx.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='http://www.alonemonkey.com'>AloneMonkey</a></h4>
-<h6 align='center'>逆向、安全</h6>
+<h6 align='center'>逆向 安全</h6>
 <p align='center'>
 <a href='https://weibo.com/xiaoqing28'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/AloneMonkey'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -135,7 +135,7 @@
 <td id='Joy_xx' style='width:180px'>
 <p align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'><img src='https://upload-images.jianshu.io/upload_images/852671-ea9d77e88a4e7fbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'>Joy_xx</a></h4>
-<h6 align='center'>工程效率、移动端性能、稳定性等</h6>
+<h6 align='center'>工程效率 性能 稳定性</h6>
 <p align='center'>
 <a href='https://weibo.com/5419850564'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/joy0304'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -242,7 +242,7 @@
 <td id='杨萧玉' style='width:180px'>
 <p align='center'><a href='http://yulingtianxia.com/'><img src='https://tva1.sinaimg.cn/crop.0.0.640.640.180/642c5793jw8es1tzsl205j20hs0hst9g.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='http://yulingtianxia.com/'>杨萧玉</a></h4>
-<h6 align='center'>iOS，逆向</h6>
+<h6 align='center'>iOS 逆向</h6>
 <p align='center'>
 <a href='https://weibo.com/yulingtianxia'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/yulingtianxia'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -251,7 +251,7 @@
 <td id='Draveness' style='width:180px'>
 <p align='center'><a href='https://draveness.me/index'><img src='https://tva3.sinaimg.cn/crop.0.0.750.750.180/005AJZTOjw8f37od44xcgj30ku0kujtf.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://draveness.me/index'>Draveness</a></h4>
-<h6 align='center'>RAC, iOS</h6>
+<h6 align='center'>RAC iOS</h6>
 <p align='center'>
 <a href='https://weibo.com/u/5123574960'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href=''><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -282,7 +282,7 @@
 <td id='南峰子_老驴' style='width:180px'>
 <p align='center'><a href='https://weibo.com/touristdiary'><img src='https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://weibo.com/touristdiary'>南峰子_老驴</a></h4>
-<h6 align='center'>iOS，前端</h6>
+<h6 align='center'>iOS 大前端</h6>
 <p align='center'>
 <a href='https://weibo.com/touristdiary'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='http://southpeak.github.io/'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -291,7 +291,7 @@
 <td id='Lefe_x' style='width:180px'>
 <p align='center'><a href='https://github.com/lefex/LefexWork'><img src='https://tva4.sinaimg.cn/crop.8.0.1226.1226.180/006uSOiEjw8f9h4ihstq4j30yi0y2gnq.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://github.com/lefex/LefexWork'>Lefe_x</a></h4>
-<h6 align='center'>iOS，大前端</h6>
+<h6 align='center'>iOS 大前端</h6>
 <p align='center'>
 <a href='https://weibo.com/u/5953150140'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/lefex'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
@@ -313,7 +313,7 @@
 <td id='故胤道长' style='width:180px'>
 <p align='center'><a href='https://www.jianshu.com/u/8d5b91490ca5'><img src='https://tva4.sinaimg.cn/crop.14.0.721.721.180/6cf34ee4jw8f8rdmtzzgmj20ku0k10t5.jpg' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://www.jianshu.com/u/8d5b91490ca5'>故胤道长</a></h4>
-<h6 align='center'>iOS，算法</h6>
+<h6 align='center'>iOS 算法</h6>
 <p align='center'>
 <a href='https://weibo.com/soapyigu'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/soapyigu'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
