@@ -47,7 +47,7 @@ rowTemplate = """
 
 cellTemplate = """
 <td id='{nickname}' style='width:180px'>
-<p align='center'><a href='{blog}'><img src='{header}' height='150' width='150'/></a></p>
+<p align='center'><a href='{blog}'><img src='{header}' height='140' width='140'/></a></p>
 <h4 align='center'><a href='{blog}'>{nickname}</a></h4>
 <h6 align='center'>{desc}</h6>
 <p align='center'>
