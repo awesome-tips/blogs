@@ -141,9 +141,9 @@
 <a href='https://github.com/joy0304'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
-<td id='没故事的桌同学' style='width:180px'>
+<td id='没故事的卓同学' style='width:180px'>
 <p align='center'><a href='https://www.jianshu.com/u/88a056103c02'><img src='https://tva4.sinaimg.cn/crop.0.0.750.750.180/72d10fc2jw8f8r4qjeggej20ku0kuwew.jpg' height='140' width='140'/></a></p>
-<h4 align='center'><a href='https://www.jianshu.com/u/88a056103c02'>没故事的桌同学</a></h4>
+<h4 align='center'><a href='https://www.jianshu.com/u/88a056103c02'>没故事的卓同学</a></h4>
 <h6 align='center'>iOS</h6>
 <p align='center'>
 <a href='https://weibo.com/u/1926303682'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
@@ -349,3 +349,5 @@
 </tr>
 
 </table>
+
+
