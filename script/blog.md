@@ -333,6 +333,37 @@
 <a href='https://github.com/kangzubin'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
 
+<td id='冬瓜' style='width:180px'>
+<p align='center'><a href='http://desgard.com/'><img src='https://avatars2.githubusercontent.com/u/7804535' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://desgard.com/'>冬瓜</a></h4>
+<h6 align='center'>iOS Python 算法</h6>
+<p align='center'>
+<a href='https://weibo.com/desgard'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/desgard'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+</tr>
+
+<tr>
+
+<td id='五子棋' style='width:180px'>
+<p align='center'><a href='http://satanwoo.github.io'><img src='https://avatars0.githubusercontent.com/u/1303079?s=460&v=4' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://satanwoo.github.io'>五子棋</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'>
+<a href='https://weibo.com/1961684153'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/satanwoo'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
+<td id='Zhang' style='width:180px'>
+<p align='center'><a href='https://mayuyu.io'><img src='https://avatars3.githubusercontent.com/u/5205699?s=460&v=4' height='140' width='140'/></a></p>
+<h4 align='center'><a href='https://mayuyu.io'>Zhang</a></h4>
+<h6 align='center'>iOS 越狱开发 App加固 编译器</h6>
+<p align='center'>
+<a href='https://weibo.com/5725560173'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/Naville'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
+
 </tr>
 
 </table>
