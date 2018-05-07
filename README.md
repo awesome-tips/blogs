@@ -345,6 +345,15 @@
 <a href='https://weibo.com/kangzubin'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='https://github.com/kangzubin'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
+  
+<td id='Desgard' style='width:180px'>
+<p align='center'><a href='http://desgard.com'><img src='https://avatars2.githubusercontent.com/u/7804535' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://desgard.com'>冬瓜</a></h4>
+<h6 align='center'>iOS Python 算法</h6>
+<p align='center'>
+<a href='https://weibo.com/desgard'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+<a href='https://github.com/desgard'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+</p>
 
 </tr>
 
