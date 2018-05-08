@@ -54,6 +54,7 @@ cellTemplate = """
 <a href='{weibo}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
 <a href='{github}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 </p>
+</td>
 """
 
 def fillCell(item):
