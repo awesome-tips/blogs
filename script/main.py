@@ -51,22 +51,38 @@ cellTemplate = """
 <h4 align='center'><a href='{blog}'>{nickname}</a></h4>
 <h6 align='center'>{desc}</h6>
 <p align='center'>
-<a href='{weibo}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
-<a href='{github}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
+{weibo}
+{github}
 </p>
 </td>
+"""
+
+weiboTemplate = """
+<a href='{weibo}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
+"""
+
+githubTemplate = """
+<a href='{github}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
 """
 
 def fillCell(item):
     if item is None:
         return ""
 
+    weibo = ""
+    if item.weibo is not None and item.weibo is not "":
+        weibo = weiboTemplate.format(weibo=item.weibo)
+
+    github = ""
+    if item.github is not None and item.github is not "":
+        github = githubTemplate.format(github=item.github)
+
     return cellTemplate.format(nickname=item.nickname,
                              header=item.header,
                              blog=item.blog,
                              desc=item.desc,
-                             weibo=item.weibo,
-                             github=item.github)
+                             weibo=weibo,
+                             github=github)
 
 def writeRow(items):
 
