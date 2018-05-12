@@ -112,7 +112,7 @@
 <td id='Joy_xx' style='width:180px'>
 <p align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'><img src='https://upload-images.jianshu.io/upload_images/852671-ea9d77e88a4e7fbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' height='140' width='140'/></a></p>
 <h4 align='center'><a href='https://juejin.im/user/5656f11760b28da566412f03'>Joy_xx</a></h4>
-<h6 align='center'>工程效率/移动端性能/稳定性等</h6>
+<h6 align='center'>工程效率/移动端性能</h6>
 <p align='center'><a href='https://weibo.com/5419850564'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a> <a href='https://github.com/joy0304'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
 </td>
 
