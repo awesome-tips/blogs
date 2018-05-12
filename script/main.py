@@ -50,17 +50,13 @@ cellTemplate = """
 <p align='center'><a href='{blog}'><img src='{header}' height='140' width='140'/></a></p>
 <h4 align='center'><a href='{blog}'>{nickname}</a></h4>
 <h6 align='center'>{desc}</h6>
-<p align='center'>{weibo}{github}</p>
+<p align='center'>{weibo} {github}</p>
 </td>
 """
 
-weiboTemplate = """
-<a href='{weibo}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>
-"""
+weiboTemplate = """<a href='{weibo}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a>"""
 
-githubTemplate = """
-<a href='{github}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>
-"""
+githubTemplate = """<a href='{github}'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a>"""
 
 def fillCell(item):
     if item is None:
