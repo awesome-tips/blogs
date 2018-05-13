@@ -304,6 +304,27 @@
 <p align='center'> <a href='https://github.com/LeoMobileDeveloper'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
 </td>
 
+<td id='贝聊科技' style='width:180px'>
+<p align='center'><a href='https://zhuanlan.zhihu.com/ibeiliao'><img src='https://avatars1.githubusercontent.com/u/29856374?s=400&v=4' height='140' width='140'/></a></p>
+<h4 align='center'><a href='https://zhuanlan.zhihu.com/ibeiliao'>贝聊科技</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'> <a href='https://github.com/beiliao-mobile'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
+<td id='杜文' style='width:180px'>
+<p align='center'><a href='https://juejin.im/user/58211b88a0bb9f0058c25b7f/'><img src='https://avatars2.githubusercontent.com/u/20411648?s=460&v=4' height='140' width='140'/></a></p>
+<h4 align='center'><a href='https://juejin.im/user/58211b88a0bb9f0058c25b7f/'>杜文</a></h4>
+<h6 align='center'>大前端</h6>
+<p align='center'> <a href='https://github.com/wendux'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
+<td id='flyou' style='width:180px'>
+<p align='center'><a href='http://flutter.link/'><img src='https://tva2.sinaimg.cn/crop.0.3.707.707.180/a2f7c645jw8f6qvlbp1g7j20js0jrgrz.jpg' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://flutter.link/'>flyou</a></h4>
+<h6 align='center'>Flutter</h6>
+<p align='center'><a href='https://weibo.com/fangjaylong?is_all=1'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a> <a href='https://github.com/flyou'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
 </tr>
 
 </table>
