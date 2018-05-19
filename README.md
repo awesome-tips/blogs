@@ -327,6 +327,24 @@
 
 </tr>
 
+<tr>
+
+<td id='有赞技术团队' style='width:180px'>
+<p align='center'><a href='https://tech.youzan.com/'><img src='https://tech.youzan.com/content/images/2017/10/logo.png' height='140' width='140'/></a></p>
+<h4 align='center'><a href='https://tech.youzan.com/'>有赞技术团队</a></h4>
+<h6 align='center'>大前端</h6>
+<p align='center'> <a href='github.com/youzan/vant'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
+<td id='FoolishTalk' style='width:180px'>
+<p align='center'><a href='http://www.foolishtalk.org/'><img src='https://tvax3.sinaimg.cn/crop.0.0.667.667.180/7ce61a5ely8foethi15vzj20ij0ijgmf.jpg' height='140' width='140'/></a></p>
+<h4 align='center'><a href='http://www.foolishtalk.org/'>FoolishTalk</a></h4>
+<h6 align='center'>iOS</h6>
+<p align='center'><a href='https://weibo.com/u/2095454814'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a> <a href='https://github.com/fidetro'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
+</tr>
+
 </table>
 
 
