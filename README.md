@@ -343,6 +343,14 @@
 <p align='center'><a href='https://weibo.com/u/2095454814'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a> <a href='https://github.com/fidetro'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
 </td>
 
+<td id='陈满iOS' style='width:180px'>
+<p align='center'><a href='https://www.jianshu.com/u/508ba9810059'><img src='https://github.com/cimain/MediaResourcesForNotes/blob/master/WX20180626-144124@2x.png?raw=true' height='140' width='140'/></a></p>
+<h4 align='center'><a href='https://www.jianshu.com/u/508ba9810059/'>陈满iOS</a></h4>
+<h6 align='center'>iOS/开发笔记/面试</h6>
+<p align='center'><a href='https://weibo.com/cimer'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/weibo.png?raw=true' /></a> <a href='https://github.com/cimain'><img src='https://github.com/awesome-tips/blogs/blob/master/assets/github.png?raw=true' /></a></p>
+</td>
+
+
 </tr>
 
 </table>
